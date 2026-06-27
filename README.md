@@ -1,6 +1,8 @@
 # Nano7Modular
 Modular iPod Nano 7 Case System
 
+Also view on [makerworld](https://makerworld.com/en/models/2904043-modular-ipod-nano-7-case-system#profileId-3247090)! 
+
 Give your iPod nano a new life with this set of modular extensions!
  
 # How it works?

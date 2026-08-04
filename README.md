@@ -41,6 +41,8 @@ WARNING: This module requires external electrical components and assembly. Use a
   - Soldier the 5v pad of the wireless charging receiver PCB to the V pad of the lightning cable breakout board.
   - Do the same with GND
   - Slide the lightning cable through the hole in the module, fit everything in the case and snap on the cap.
+ <img width="682" height="518" alt="Screenshot 2026-08-04 at 7 40 34 AM" src="https://github.com/user-attachments/assets/8f28f4ac-dc6e-48ac-9db8-1fbf681fdd66" />
+
 Watch video for more details:
 [![Watch on YouTube](https://img.youtube.com/vi/6Ei8JDwjT3M/maxresdefault.jpg)](https://www.youtube.com/shorts/6Ei8JDwjT3M)
  

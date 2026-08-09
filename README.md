@@ -33,10 +33,16 @@ Print with PLA with supports, ensure top Z-distance is at a tuned number and pri
 WARNING: This module requires external electrical components and assembly. Use at your own risk. I am not responsible for any damage to devices, batteries, electronics, property, or personal injury resulting from the use, assembly, modification, or misuse of this design. Verify all wiring and connections before use.
 
 - Bill of materials:
-  - Wireless Charging Receiver  (Rectangular 5V) 
-  - Lightning Breakout Board  (Model D with only V and G pads) 
-  - Any wireless charging transmitter
-  - Soldiering materials (Iron, wire)
+
+| Component                     |         Qty. | Notes                                      |
+| ----------------------------- | -----------: | ------------------------------------------ |
+| [5V Wireless Charging Receiver](https://www.aliexpress.us/item/3256808909553013.html) |            1 | Rectangular receiver PCB/module            |
+| [Lightning Breakout Board](https://www.aliexpress.us/item/3256807554432381.html)      |            1 | Model D with only **V** and **G** pads     |
+| Wireless Charging Transmitter |            1 | Any compatible Qi charging pad/transmitter |
+| Hookup Wire                   | Small amount | For connecting 5V and GND                  |
+| Solder                        | Small amount | For electrical connections                 |
+| Soldering Iron                |            1 | Required for assembly                      |
+
 - Assembly
   - Soldier the 5v pad of the wireless charging receiver PCB to the V pad of the lightning cable breakout board.
   - Do the same with GND
